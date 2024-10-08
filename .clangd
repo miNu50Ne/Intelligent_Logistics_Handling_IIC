@@ -1,0 +1,5 @@
+CompileFlags:
+    Add:
+        - "-Id:/msys64/mingw64/arm-none-eabi/include/"
+        - "-Id:/msys64/mingw64/arm-none-eabi/include/c++/12.2.0/"
+        - "-Id:/msys64/mingw64/arm-none-eabi/include/c++/12.2.0/arm-none-eabi/"
