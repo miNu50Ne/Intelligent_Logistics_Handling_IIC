@@ -444,7 +444,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .debug_line    0x0000000000000000      0x548 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
- .debug_str     0x0000000000000000    0xbae5c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000    0xbae5b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
  .ARM.attributes
                 0x0000000000000000       0x34 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
@@ -529,7 +529,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .debug_line    0x0000000000000000      0x54b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
- .debug_str     0x0000000000000000    0xbae5f CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000    0xbae5e CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
  .ARM.attributes
                 0x0000000000000000       0x34 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
@@ -725,7 +725,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_line    0x0000000000000000      0x854 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
- .debug_str     0x0000000000000000    0xbb173 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000    0xbb172 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .debug_frame   0x0000000000000000       0xf0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
  .ARM.attributes
@@ -848,7 +848,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_line    0x0000000000000000      0x8f4 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
- .debug_str     0x0000000000000000    0xbb211 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000    0xbb210 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .debug_frame   0x0000000000000000      0x274 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
  .ARM.attributes
@@ -968,7 +968,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_line    0x0000000000000000      0x8f7 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
- .debug_str     0x0000000000000000    0xbb261 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000    0xbb260 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .debug_frame   0x0000000000000000      0x250 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
  .ARM.attributes
@@ -1054,7 +1054,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .debug_line    0x0000000000000000      0x552 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
- .debug_str     0x0000000000000000    0xbae66 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x0000000000000000    0xbae65 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
  .ARM.attributes
                 0x0000000000000000       0x34 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
@@ -1232,7 +1232,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_line    0x0000000000000000     0x11cd CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
- .debug_str     0x0000000000000000    0xbb1f5 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x0000000000000000    0xbb1f4 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .debug_frame   0x0000000000000000       0xac CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
  .ARM.attributes
@@ -1352,7 +1352,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_line    0x0000000000000000      0xdb0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
- .debug_str     0x0000000000000000    0xbb43b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x0000000000000000    0xbb43a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .debug_frame   0x0000000000000000      0x250 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
  .ARM.attributes
@@ -1474,7 +1474,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_line    0x0000000000000000      0x752 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
- .debug_str     0x0000000000000000    0xbb257 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000    0xbb256 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .debug_frame   0x0000000000000000      0x264 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
  .ARM.attributes
@@ -1574,7 +1574,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_line    0x0000000000000000      0x645 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
- .debug_str     0x0000000000000000    0xbb120 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x0000000000000000    0xbb11f CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .debug_frame   0x0000000000000000       0xdc CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
  .ARM.attributes
@@ -1926,7 +1926,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x89 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_macro   0x0000000000000000      0x12d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_line    0x0000000000000000      0x84c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
- .debug_str     0x0000000000000000    0xbb08d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000    0xbb08c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .comment       0x0000000000000000       0x13 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .debug_frame   0x0000000000000000      0x174 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
  .ARM.attributes
@@ -2699,35 +2699,35 @@ LOAD d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\l
  .debug_frame   0x0000000000000e60       0x2c d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
  .debug_frame   0x0000000000000e8c       0x34 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
 
-.debug_info     0x0000000000000000     0x4165
+.debug_info     0x0000000000000000     0x4185
  .debug_info    0x0000000000000000      0x4ac CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/main.c.obj
- .debug_info    0x00000000000004ac      0x62a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
- .debug_info    0x0000000000000ad6      0x14a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_info    0x0000000000000c20      0x269 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_info    0x0000000000000e89      0x8af CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_info    0x0000000000001738      0x6c3 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_info    0x0000000000001dfb      0xd8c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_info    0x0000000000002b87      0x944 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_info    0x00000000000034cb      0x512 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_info    0x00000000000039dd       0x2e CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
- .debug_info    0x0000000000003a0b       0x24 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x0000000000003a2f      0x6fd d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_info    0x000000000000412c       0x39 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00000000000004ac      0x62e CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
+ .debug_info    0x0000000000000ada      0x14a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_info    0x0000000000000c24      0x269 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x0000000000000e8d      0x8c4 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x0000000000001751      0x6ca CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x0000000000001e1b      0xd8c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x0000000000002ba7      0x944 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x00000000000034eb      0x512 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_info    0x00000000000039fd       0x2e CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
+ .debug_info    0x0000000000003a2b       0x24 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000000000003a4f      0x6fd d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x000000000000414c       0x39 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
 
-.debug_abbrev   0x0000000000000000     0x1152
+.debug_abbrev   0x0000000000000000     0x114e
  .debug_abbrev  0x0000000000000000      0x1d6 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/main.c.obj
- .debug_abbrev  0x00000000000001d6      0x174 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x000000000000034a       0xa0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_abbrev  0x00000000000003ea       0xd8 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_abbrev  0x00000000000004c2      0x2b7 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_abbrev  0x0000000000000779      0x1d4 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_abbrev  0x000000000000094d      0x31d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_abbrev  0x0000000000000c6a      0x214 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_abbrev  0x0000000000000e7e      0x11a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_abbrev  0x0000000000000f98       0x1d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
- .debug_abbrev  0x0000000000000fb5       0x14 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_abbrev  0x0000000000000fc9      0x16a d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_abbrev  0x0000000000001133       0x1f d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00000000000001d6      0x173 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x0000000000000349       0xa0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00000000000003e9       0xd8 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000000000004c1      0x2b6 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000000777      0x1d2 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000000949      0x31d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000000000000c66      0x214 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x0000000000000e7a      0x11a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x0000000000000f94       0x1d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
+ .debug_abbrev  0x0000000000000fb1       0x14 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000fc5      0x16a d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x000000000000112f       0x1f d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
 
 .debug_aranges  0x0000000000000000      0x488
  .debug_aranges
@@ -2830,47 +2830,47 @@ LOAD d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\l
  .debug_macro   0x000000000001ec2f      0x210 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
  .debug_macro   0x000000000001ee3f      0x1b0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
 
-.debug_line     0x0000000000000000     0x4bf5
+.debug_line     0x0000000000000000     0x4bef
  .debug_line    0x0000000000000000      0x5ce CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/main.c.obj
- .debug_line    0x00000000000005ce      0x56c CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
- .debug_line    0x0000000000000b3a      0x62d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
- .debug_line    0x0000000000001167      0x553 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
- .debug_line    0x00000000000016ba      0xbc9 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
- .debug_line    0x0000000000002283      0x9cc CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
- .debug_line    0x0000000000002c4f      0xb32 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
- .debug_line    0x0000000000003781      0x840 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
- .debug_line    0x0000000000003fc1      0x5d7 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
- .debug_line    0x0000000000004598       0x7a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
- .debug_line    0x0000000000004612       0x4e d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_line    0x0000000000004660      0x54b d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
- .debug_line    0x0000000000004bab       0x4a d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00000000000005ce      0x566 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
+ .debug_line    0x0000000000000b34      0x62d CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
+ .debug_line    0x0000000000001161      0x553 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x00000000000016b4      0xbc9 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x000000000000227d      0x9cc CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x0000000000002c49      0xb32 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x000000000000377b      0x840 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x0000000000003fbb      0x5d7 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
+ .debug_line    0x0000000000004592       0x7a CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
+ .debug_line    0x000000000000460c       0x4e d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x000000000000465a      0x54b d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000000000004ba5       0x4a d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
 
-.debug_str      0x0000000000000000    0xbcc6b
- .debug_str     0x0000000000000000    0xbaf97 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/main.c.obj
-                                      0xbb20e (size before relaxing)
- .debug_str     0x00000000000baf97      0x5f0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
-                                      0xbb632 (size before relaxing)
- .debug_str     0x00000000000bb587      0x11b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
-                                      0xbb00b (size before relaxing)
- .debug_str     0x00000000000bb6a2       0x54 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
-                                      0xbb047 (size before relaxing)
- .debug_str     0x00000000000bb6f6      0x2e9 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
-                                      0xbb455 (size before relaxing)
- .debug_str     0x00000000000bb9df      0x140 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
-                                      0xbb19c (size before relaxing)
- .debug_str     0x00000000000bbb1f      0x454 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
-                                      0xbb921 (size before relaxing)
- .debug_str     0x00000000000bbf73      0x5a6 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
-                                      0xbbba5 (size before relaxing)
- .debug_str     0x00000000000bc519       0x72 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
-                                      0xbb021 (size before relaxing)
- .debug_str     0x00000000000bc58b       0x5b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
+.debug_str      0x0000000000000000    0xbcc6a
+ .debug_str     0x0000000000000000    0xbaf96 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/main.c.obj
+                                      0xbb20d (size before relaxing)
+ .debug_str     0x00000000000baf96      0x5f0 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/gpio.c.obj
+                                      0xbb631 (size before relaxing)
+ .debug_str     0x00000000000bb586      0x11b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_it.c.obj
+                                      0xbb00a (size before relaxing)
+ .debug_str     0x00000000000bb6a1       0x54 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/stm32f4xx_hal_msp.c.obj
+                                      0xbb046 (size before relaxing)
+ .debug_str     0x00000000000bb6f5      0x2e9 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                      0xbb454 (size before relaxing)
+ .debug_str     0x00000000000bb9de      0x140 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                      0xbb19b (size before relaxing)
+ .debug_str     0x00000000000bbb1e      0x454 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                      0xbb920 (size before relaxing)
+ .debug_str     0x00000000000bbf72      0x5a6 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                      0xbbba4 (size before relaxing)
+ .debug_str     0x00000000000bc518       0x72 CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/Core/Src/system_stm32f4xx.c.obj
+                                      0xbb020 (size before relaxing)
+ .debug_str     0x00000000000bc58a       0x5b CMakeFiles/Intelligent_Logistics_Handling_IIC.dir/startup_stm32f407xx.s.obj
                                          0x8c (size before relaxing)
- .debug_str     0x00000000000bc5e6       0xa8 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x00000000000bc5e5       0xa8 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
                                          0xb4 (size before relaxing)
- .debug_str     0x00000000000bc68e      0x591 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_str     0x00000000000bc68d      0x591 d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
                                         0x6bd (size before relaxing)
- .debug_str     0x00000000000bcc1f       0x4c d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_str     0x00000000000bcc1e       0x4c d:/msys64/mingw64/bin/../lib/gcc/arm-none-eabi/12.2.0/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
                                          0xd4 (size before relaxing)
 
 .comment        0x0000000000000000       0x12
